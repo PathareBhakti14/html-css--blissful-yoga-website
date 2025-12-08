@@ -220,7 +220,6 @@ h1 {
 
 @media screen and (max-width: 768px) {
 
-    /* Navbar */
     .navbar {
         width: 100%;
         padding: 12px 20px;
@@ -235,21 +234,20 @@ h1 {
         gap: 15px;
     }
 
-    /* Banner Image */
+
     .banner img,
     img {
         width: 100%;
         height: auto;
     }
 
-    /* Heading */
     h1 {
         font-size: 28px;
         margin-top: 80px;
         text-align: center;
     }
 
-    /* Cards */
+
     .cards-container {
         flex-direction: column;
         align-items: center;
@@ -260,8 +258,8 @@ h1 {
         width: 85%;
         padding: 20px;
     }
+    
 
-    /* Footer */
     .footer-container {
         flex-direction: column;
         align-items: center;
